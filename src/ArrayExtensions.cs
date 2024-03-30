@@ -1,4 +1,4 @@
-﻿namespace CollectionExtensions;
+﻿namespace TostCorp.CollectionExtensions;
 
 public static class ArrayExt
 {
